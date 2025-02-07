@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/02/06、雲の隙間から朝焼けの光、親戚宅でお昼をいただき役場で諸手続き!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/02/06、朝日の中で野鳥の鳴き声、メーチャンの街の同じ役場で昨日の続き!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -128,10 +128,10 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 
-<h2><span class="yellow">朝はまたまた寝坊で日もすっかり上がりました 朝7:53</span></h2>
+<h2><span class="yellow">朝は野鳥の鳴き声が響き渡る朝日の中 朝7:53</span></h2>
 <a href="20250206_001.JPG" target="_blank"><img src="20250206_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">朝日と共に野鳥もお目覚め、鳴き声が響きます</span></h2>
+<h2><span class="yellow">野鳥の鳴き声が収録できました</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cUYzWy_s6oQ?si=9bhnT1G32J599YPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <h2><span class="yellow">お花の撮影方法をちょっと工夫、スマホの望遠レンズで接写モード</span></h2>
