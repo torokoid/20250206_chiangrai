@@ -128,7 +128,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 
-<h2><span class="yellow">朝は野鳥の鳴き声が響き渡る朝日の中 朝7:53</span></h2>
+<h2><span class="yellow">朝日の中で野鳥の鳴き声が響き渡ります 朝7:53</span></h2>
 <a href="20250206_001.JPG" target="_blank"><img src="20250206_001.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">野鳥の鳴き声が収録できました</span></h2>
